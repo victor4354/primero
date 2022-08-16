@@ -1,2 +1,3 @@
 # primero
-Primer repositorio para control de personas
+Primer repositorio para control de versiones 
+
